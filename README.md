@@ -2,8 +2,7 @@
 
 No dependencies! just open up `index.html` in a web browser and go.
 
-![Conway](/conway.png)
-
+<img src="/conway.png" width="200" height="200">
 
 ### What is it?
 A JavaScript canvas representing a 2D grid of 'cells' which can be alive or dead.
